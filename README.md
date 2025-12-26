@@ -1,2 +1,1 @@
-# snowflake
-Repo for learning Snowflake
+This repository contains my Snowflake learning projects and progress
